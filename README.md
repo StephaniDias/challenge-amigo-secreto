@@ -4,3 +4,4 @@
 A aplicação é ideal para facilitar eventos de troca de presentes, sejam eles familiares, entre amigos ou colegas de trabalho, eliminando a necessidade de realizar o sorteio manualmente.</p>
 
 <h3> Tecnologias Utilizadas </h3>
+<p> HTML, CSS e JavaScript</p>
