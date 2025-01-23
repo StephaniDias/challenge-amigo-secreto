@@ -5,3 +5,11 @@ A aplicação é ideal para facilitar eventos de troca de presentes, sejam eles 
 
 <h3> Tecnologias Utilizadas </h3>
 <p> HTML, CSS e JavaScript</p>
+<h4> Funcionamento do Projeto </h4>
+<p> 1- Cadastro de Participantes: Os usuários podem adicionar nomes à lista de participantes do amigo secreto.<br>
+2- Validação: A aplicação realiza verificações, como impedir que nomes duplicados sejam adicionados. <br>
+3- Sorteio Automático: Um algoritmo distribui aleatoriamente os pares, garantindo que cada pessoa receba um amigo secreto diferente.<br>
+4- Exibição do Resultado: Cada participante pode consultar seu amigo secreto individualmente, garantindo o sigilo.
+  </p>
+<h5> Objetivo </h5>
+<p> O objetivo principal deste projeto é digitalizar e simplificar a tradicional brincadeira de amigo secreto, tornando-a mais acessível e eficiente. Com ele, não há necessidade de realizar sorteios manuais ou depender de ferramentas externas. Além disso, o uso de boas práticas de desenvolvimento, como testes automatizados e o uso de tecnologias modernas, garante a robustez e confiabilidade do sistema.</p>
